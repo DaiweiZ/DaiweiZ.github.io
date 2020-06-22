@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e5b473be-b465-4b5c-b0b0-4c8d66e6f8c3" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/539ProjectSite/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/539ProjectSite/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/539ProjectSite/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/539ProjectSite/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/539ProjectSite/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/539ProjectSite/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/539ProjectSite/stepscounter.html" beforeDir="false" afterPath="$PROJECT_DIR$/539ProjectSite/stepscounter.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -48,8 +52,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/539ProjectSite/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="327">
-              <caret line="59" column="110" selection-start-line="59" selection-start-column="110" selection-end-line="59" selection-end-column="110" />
+            <state relative-caret-position="83">
+              <caret line="59" column="120" selection-start-line="59" selection-start-column="120" selection-end-line="59" selection-end-column="120" />
               <folding>
                 <element signature="n#style#0;n#hr#1;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -57,11 +61,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="about.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/539ProjectSite/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="91" column="50" selection-start-line="91" selection-start-column="50" selection-end-line="91" selection-end-column="50" />
+            <state relative-caret-position="331">
+              <caret line="150" column="18" selection-start-line="150" selection-start-column="18" selection-end-line="150" selection-end-column="18" />
               <folding>
                 <element signature="n#style#0;n#hr#1;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -79,11 +83,11 @@
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
-      <file leaf-file-name="stepscounter.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="stepscounter.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/539ProjectSite/stepscounter.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="70" column="101" selection-start-line="70" selection-start-column="101" selection-end-line="70" selection-end-column="101" />
+            <state relative-caret-position="159">
+              <caret line="110" column="67" lean-forward="true" selection-start-line="110" selection-start-column="67" selection-end-line="110" selection-end-column="67" />
               <folding>
                 <element signature="n#style#0;n#hr#1;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -94,8 +98,8 @@
       <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/539ProjectSite/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="186">
-              <caret line="174" column="28" lean-forward="true" selection-start-line="174" selection-start-column="28" selection-end-line="175" selection-end-column="28" />
+            <state relative-caret-position="394">
+              <caret line="46" column="22" selection-start-line="46" selection-start-column="22" selection-end-line="46" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -127,7 +131,11 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
+      <find>mail</find>
       <find>accordionExample</find>
+      <find>iframe</find>
+      <find>h5</find>
+      <find>h6</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -149,10 +157,10 @@
         <option value="$PROJECT_DIR$/challenge5.html" />
         <option value="$PROJECT_DIR$/WumpusCaveAdventure/css/main.css" />
         <option value="$PROJECT_DIR$/WumpusCaveAdventure/index.html" />
-        <option value="$PROJECT_DIR$/539ProjectSite/stepscounter.html" />
+        <option value="$PROJECT_DIR$/539ProjectSite/about.html" />
         <option value="$PROJECT_DIR$/539ProjectSite/index.html" />
         <option value="$PROJECT_DIR$/539ProjectSite/css/main.css" />
-        <option value="$PROJECT_DIR$/539ProjectSite/about.html" />
+        <option value="$PROJECT_DIR$/539ProjectSite/stepscounter.html" />
       </list>
     </option>
   </component>
@@ -165,11 +173,11 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="563" />
+    <option name="y" value="380" />
+    <option name="width" value="977" />
+    <option name="height" value="1057" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -269,12 +277,12 @@
       <workItem from="1592615231100" duration="3231000" />
       <workItem from="1592673792523" duration="16284000" />
       <workItem from="1592765168912" duration="1061000" />
-      <workItem from="1592775151601" duration="31453000" />
+      <workItem from="1592775151601" duration="33746000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="69163000" />
+    <option name="totallyTimeSpent" value="71456000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -289,7 +297,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info anchor="bottom" id="TODO" order="6" visible="true" weight="0.32824427" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32824427" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -298,7 +306,7 @@
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2707889" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="4" weight="0.32995737" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3293348" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.3293348" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -619,37 +627,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/539ProjectSite/stepscounter.html">
+    <entry file="file://$PROJECT_DIR$/539ProjectSite/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="70" column="101" selection-start-line="70" selection-start-column="101" selection-end-line="70" selection-end-column="101" />
-          <folding>
-            <element signature="n#style#0;n#hr#1;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="394">
+          <caret line="46" column="22" selection-start-line="46" selection-start-column="22" selection-end-line="46" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/539ProjectSite/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="327">
-          <caret line="59" column="110" selection-start-line="59" selection-start-column="110" selection-end-line="59" selection-end-column="110" />
+        <state relative-caret-position="83">
+          <caret line="59" column="120" selection-start-line="59" selection-start-column="120" selection-end-line="59" selection-end-column="120" />
           <folding>
             <element signature="n#style#0;n#hr#1;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/539ProjectSite/css/main.css">
+    <entry file="file://$PROJECT_DIR$/539ProjectSite/about.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="174" column="28" lean-forward="true" selection-start-line="174" selection-start-column="28" selection-end-line="175" selection-end-column="28" />
+        <state relative-caret-position="331">
+          <caret line="150" column="18" selection-start-line="150" selection-start-column="18" selection-end-line="150" selection-end-column="18" />
+          <folding>
+            <element signature="n#style#0;n#hr#1;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/539ProjectSite/about.html">
+    <entry file="file://$PROJECT_DIR$/539ProjectSite/stepscounter.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="91" column="50" selection-start-line="91" selection-start-column="50" selection-end-line="91" selection-end-column="50" />
+        <state relative-caret-position="159">
+          <caret line="110" column="67" lean-forward="true" selection-start-line="110" selection-start-column="67" selection-end-line="110" selection-end-column="67" />
           <folding>
             <element signature="n#style#0;n#hr#1;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>

@@ -42,6 +42,10 @@ div.inline-card p.card-text{
     color:  rgba(34, 136, 57, 0.84);
 
 }
+div.inline-card p.card-title{
+    color: rgba(0, 0, 0, 0.84);
+    font-weight: bold;
+}
 @media only screen and (max-width: 1000px) {
     header {
         background-color: rgba(23, 53, 63, 0.78);
