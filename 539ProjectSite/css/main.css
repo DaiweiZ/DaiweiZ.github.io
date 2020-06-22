@@ -186,3 +186,6 @@ div.verticle-slide {
 div.container div.card{
     margin: 1em auto;
 }
+iframe {
+    frameborder:0;
+}
