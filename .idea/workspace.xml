@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e5b473be-b465-4b5c-b0b0-4c8d66e6f8c3" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/539ProjectSite/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/539ProjectSite/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/539ProjectSite/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/539ProjectSite/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/539ProjectSite/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/539ProjectSite/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/539ProjectSite/stepscounter.html" beforeDir="false" afterPath="$PROJECT_DIR$/539ProjectSite/stepscounter.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -49,11 +45,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/539ProjectSite/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="83">
-              <caret line="59" column="120" selection-start-line="59" selection-start-column="120" selection-end-line="59" selection-end-column="120" />
+            <state relative-caret-position="254">
+              <caret line="95" column="51" lean-forward="true" selection-start-line="95" selection-start-column="51" selection-end-line="95" selection-end-column="51" />
               <folding>
                 <element signature="n#style#0;n#hr#1;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -83,11 +79,11 @@
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
-      <file leaf-file-name="stepscounter.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="stepscounter.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/539ProjectSite/stepscounter.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="159">
-              <caret line="110" column="67" lean-forward="true" selection-start-line="110" selection-start-column="67" selection-end-line="110" selection-end-column="67" />
+              <caret line="119" column="20" lean-forward="true" selection-start-line="119" selection-start-column="20" selection-end-line="119" selection-end-column="20" />
               <folding>
                 <element signature="n#style#0;n#hr#1;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -158,9 +154,9 @@
         <option value="$PROJECT_DIR$/WumpusCaveAdventure/css/main.css" />
         <option value="$PROJECT_DIR$/WumpusCaveAdventure/index.html" />
         <option value="$PROJECT_DIR$/539ProjectSite/about.html" />
-        <option value="$PROJECT_DIR$/539ProjectSite/index.html" />
         <option value="$PROJECT_DIR$/539ProjectSite/css/main.css" />
         <option value="$PROJECT_DIR$/539ProjectSite/stepscounter.html" />
+        <option value="$PROJECT_DIR$/539ProjectSite/index.html" />
       </list>
     </option>
   </component>
@@ -174,8 +170,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="563" />
-    <option name="y" value="380" />
+    <option name="x" value="728" />
+    <option name="y" value="173" />
     <option name="width" value="977" />
     <option name="height" value="1057" />
   </component>
@@ -277,12 +273,12 @@
       <workItem from="1592615231100" duration="3231000" />
       <workItem from="1592673792523" duration="16284000" />
       <workItem from="1592765168912" duration="1061000" />
-      <workItem from="1592775151601" duration="33746000" />
+      <workItem from="1592775151601" duration="34396000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="71456000" />
+    <option name="totallyTimeSpent" value="72106000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -634,16 +630,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/539ProjectSite/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="83">
-          <caret line="59" column="120" selection-start-line="59" selection-start-column="120" selection-end-line="59" selection-end-column="120" />
-          <folding>
-            <element signature="n#style#0;n#hr#1;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/539ProjectSite/about.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="331">
@@ -657,7 +643,17 @@
     <entry file="file://$PROJECT_DIR$/539ProjectSite/stepscounter.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="159">
-          <caret line="110" column="67" lean-forward="true" selection-start-line="110" selection-start-column="67" selection-end-line="110" selection-end-column="67" />
+          <caret line="119" column="20" lean-forward="true" selection-start-line="119" selection-start-column="20" selection-end-line="119" selection-end-column="20" />
+          <folding>
+            <element signature="n#style#0;n#hr#1;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/539ProjectSite/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="95" column="51" lean-forward="true" selection-start-line="95" selection-start-column="51" selection-end-line="95" selection-end-column="51" />
           <folding>
             <element signature="n#style#0;n#hr#1;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
