@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e5b473be-b465-4b5c-b0b0-4c8d66e6f8c3" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/539ProjectSite/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/539ProjectSite/img/handbook.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/539ProjectSite/img/migov_brandingbar_2017.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/539ProjectSite/img/seattle.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/539ProjectSite/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/539ProjectSite/stepscounter.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/539ProjectSite/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/539ProjectSite/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -64,7 +58,7 @@
         <entry file="file://$PROJECT_DIR$/539ProjectSite/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="181">
-              <caret line="77" column="145" selection-start-line="77" selection-start-column="145" selection-end-line="77" selection-end-column="145" />
+              <caret line="59" column="143" selection-start-line="59" selection-start-column="143" selection-end-line="59" selection-end-column="143" />
             </state>
           </provider>
         </entry>
@@ -265,12 +259,12 @@
       <workItem from="1592615231100" duration="3231000" />
       <workItem from="1592673792523" duration="16284000" />
       <workItem from="1592765168912" duration="1061000" />
-      <workItem from="1592775151601" duration="14570000" />
+      <workItem from="1592775151601" duration="14973000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52280000" />
+    <option name="totallyTimeSpent" value="52683000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -661,7 +655,7 @@
     <entry file="file://$PROJECT_DIR$/539ProjectSite/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="181">
-          <caret line="77" column="145" selection-start-line="77" selection-start-column="145" selection-end-line="77" selection-end-column="145" />
+          <caret line="59" column="143" selection-start-line="59" selection-start-column="143" selection-end-line="59" selection-end-column="143" />
         </state>
       </provider>
     </entry>
